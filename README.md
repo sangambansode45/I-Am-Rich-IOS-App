@@ -1,6 +1,6 @@
 # I-Am-Rich-IOS-App
 
-Sure, here's a summary of creating a simple iOS app named "I Am Rich" using Xcode and Swift:
+Creating a simple iOS app named "I Am Rich" using Xcode and Swift:
 
 1. **Set Up Xcode Project**: Open Xcode and create a new iOS project using the "Single View App" template. Name the project "I Am Rich".
 
@@ -18,4 +18,4 @@ Sure, here's a summary of creating a simple iOS app named "I Am Rich" using Xcod
 
 8. **Documentation**: Document any important details about the app, such as its purpose, functionality, and any special instructions for users.
 
-That's a summary of creating a simple iOS app named "I Am Rich" using Xcode and Swift. It's a straightforward process, especially for a basic app like this.
+Creating a simple iOS app named "I Am Rich" using Xcode and Swift. It's a straightforward process, especially for a basic app like this.
